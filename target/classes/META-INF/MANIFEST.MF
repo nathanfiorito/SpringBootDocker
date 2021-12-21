@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: NFior
+Build-Jdk: 17.0.1
+Implementation-Title: rest-springboot-docker
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.dev.nathanfiorito
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/rest-springboot-docker
+Created-By: Maven Integration for Eclipse
+
